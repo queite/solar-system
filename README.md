@@ -1,6 +1,6 @@
 # SOLAR SYSTEM 🪐
 
-Project build-up in the Web Development Front-end Module' block of the [Trybe](https://www.betrybe.com/) course.
+Project developed in the Front-end Module at [Trybe](https://www.betrybe.com/) course.
 
 This project develop a model of the solar system!
 
