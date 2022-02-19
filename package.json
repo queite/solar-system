@@ -1,7 +1,7 @@
 {
   "name": "solar-system",
   "version": "0.1.0",
-  "homepage": "github-page/",
+  "homepage": "https://queite.github.io/solar-system/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
