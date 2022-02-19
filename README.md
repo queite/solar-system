@@ -2,7 +2,7 @@
 
 Project developed in the Front-end Module at [Trybe](https://www.betrybe.com/) course.
 
-This project develop a model of the solar system!
+This project develops a model of the solar system!
 
 The user should be able to:
 * View the solar system's planets rendered on the screen;
