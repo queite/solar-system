@@ -33,7 +33,7 @@ The user should be able to:
 ---
 
 ### 🔗 Project Links
-* [Page](https://queite.github.io/LearningProjects/ShoppingCart/index.html)
+* [Page](https://queite.github.io/solar-system/)
 
 ---
 
